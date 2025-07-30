@@ -1,1 +1,2 @@
+Delete README.md
 # pennywise
