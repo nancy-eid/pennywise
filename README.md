@@ -1,4 +1,2 @@
 
-# pennywise
-Delete README.md
 
